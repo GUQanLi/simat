@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    font-size: 16;
+    font-weight: normal;
+    font-family: sans-serif;
+
+}
+.jakes{
+    width: 380px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 30);
+
+}
+.obqus p {
+    color: brown;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration-style: none;
+    /*text-transform: capitalize;*/
+    letter-spacing: 0,1px;
+    /*word-spacing: 42px;*/
+    
+}
+.social{
+    background-color: cadetblue;
+    /*padding: 5px;*/
+    border: 5px solid red;
+    margin: 15px 40px;
+    padding: 15px 30px 40px 50px;
+    border-bottom-style: dotted;
+    border-top-width: 15px ;
+
+
+}
+.korobka{
+    max-width: 750px;
+    min-width: 50px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
